@@ -18,7 +18,7 @@ This project demonstrates **CRUD operations**, file handling, and GUI design —
 
 ## Screenshots
 
-![Screenshot](screenshot.png)  
+![Screenshot](screenshot)  
 
 ---
 
